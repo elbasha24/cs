@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/c1
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/c1.deps.json
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/c1.runtimeconfig.json
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/c1.dll
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/ref/c1.dll
+/home/nk/Documents/cs/c1/c1/bin/Debug/net6.0/c1.pdb
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.AssemblyInfo.cs
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.dll
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/ref/c1.dll
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.pdb
+/home/nk/Documents/cs/c1/c1/obj/Debug/net6.0/c1.genruntimeconfig.cache
