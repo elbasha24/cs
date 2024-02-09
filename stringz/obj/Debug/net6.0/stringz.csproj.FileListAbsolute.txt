@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/stringz
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/stringz.deps.json
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/stringz.runtimeconfig.json
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/stringz.dll
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/ref/stringz.dll
+/home/nk/Documents/cs/stringz/bin/Debug/net6.0/stringz.pdb
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.AssemblyInfo.cs
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.dll
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/ref/stringz.dll
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.pdb
+/home/nk/Documents/cs/stringz/obj/Debug/net6.0/stringz.genruntimeconfig.cache

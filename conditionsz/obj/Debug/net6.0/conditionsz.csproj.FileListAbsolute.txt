@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/conditionsz
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/conditionsz.deps.json
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/conditionsz.runtimeconfig.json
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/conditionsz.dll
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/ref/conditionsz.dll
+/home/nk/Documents/cs/conditionsz/bin/Debug/net6.0/conditionsz.pdb
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.AssemblyInfo.cs
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.dll
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/ref/conditionsz.dll
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.pdb
+/home/nk/Documents/cs/conditionsz/obj/Debug/net6.0/conditionsz.genruntimeconfig.cache
