@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/func/bin/Debug/net6.0/func
+/home/nk/Documents/cs/func/bin/Debug/net6.0/func.deps.json
+/home/nk/Documents/cs/func/bin/Debug/net6.0/func.runtimeconfig.json
+/home/nk/Documents/cs/func/bin/Debug/net6.0/func.dll
+/home/nk/Documents/cs/func/bin/Debug/net6.0/ref/func.dll
+/home/nk/Documents/cs/func/bin/Debug/net6.0/func.pdb
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.AssemblyInfo.cs
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.dll
+/home/nk/Documents/cs/func/obj/Debug/net6.0/ref/func.dll
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.pdb
+/home/nk/Documents/cs/func/obj/Debug/net6.0/func.genruntimeconfig.cache
