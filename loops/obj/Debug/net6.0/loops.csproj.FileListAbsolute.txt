@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/loops
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/loops.deps.json
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/loops.dll
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/ref/loops.dll
+/home/nk/Documents/cs/loops/bin/Debug/net6.0/loops.pdb
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.dll
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/ref/loops.dll
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.pdb
+/home/nk/Documents/cs/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/nk/Documents/cs/SwitchStatment/obj/Debug/net6.0/SwitchStatment.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/SwitchStatment/obj/Debug/net6.0/SwitchStatment.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/SwitchStatment/obj/Debug/net6.0/SwitchStatment.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/SwitchStatment/obj/Debug/net6.0/SwitchStatment.AssemblyInfo.cs
+/home/nk/Documents/cs/SwitchStatment/obj/Debug/net6.0/SwitchStatment.csproj.CoreCompileInputs.cache
