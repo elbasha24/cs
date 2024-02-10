@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/DataCasting
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/DataCasting.deps.json
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/DataCasting.runtimeconfig.json
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/DataCasting.dll
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/ref/DataCasting.dll
+/home/nk/Documents/cs/DataCasting/bin/Debug/net6.0/DataCasting.pdb
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.AssemblyInfo.cs
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.dll
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/ref/DataCasting.dll
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.pdb
+/home/nk/Documents/cs/DataCasting/obj/Debug/net6.0/DataCasting.genruntimeconfig.cache

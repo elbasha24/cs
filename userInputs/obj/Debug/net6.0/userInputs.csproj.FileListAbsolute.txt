@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/userInputs
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/userInputs.deps.json
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/userInputs.runtimeconfig.json
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/userInputs.dll
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/ref/userInputs.dll
+/home/nk/Documents/cs/userInputs/bin/Debug/net6.0/userInputs.pdb
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.AssemblyInfo.cs
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.dll
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/ref/userInputs.dll
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.pdb
+/home/nk/Documents/cs/userInputs/obj/Debug/net6.0/userInputs.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/FormattedOutput-2
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/FormattedOutput-2.deps.json
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/FormattedOutput-2.runtimeconfig.json
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/FormattedOutput-2.dll
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/ref/FormattedOutput-2.dll
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/bin/Debug/net6.0/FormattedOutput-2.pdb
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.AssemblyInfo.cs
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.dll
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/ref/FormattedOutput-2.dll
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.pdb
+/home/nk/Documents/cs/FormattedOutput/FormattedOutput-2/obj/Debug/net6.0/FormattedOutput-2.genruntimeconfig.cache
