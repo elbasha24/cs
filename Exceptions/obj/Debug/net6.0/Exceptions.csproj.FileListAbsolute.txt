@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/Exceptions
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/ref/Exceptions.dll
+/home/nk/Documents/cs/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/home/nk/Documents/cs/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache

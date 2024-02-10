@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/loop-DoWhile
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/loop-DoWhile.deps.json
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/loop-DoWhile.runtimeconfig.json
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/loop-DoWhile.dll
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/ref/loop-DoWhile.dll
+/home/nk/Documents/cs/loop-DoWhile/bin/Debug/net6.0/loop-DoWhile.pdb
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.AssemblyInfo.cs
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.dll
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/ref/loop-DoWhile.dll
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.pdb
+/home/nk/Documents/cs/loop-DoWhile/obj/Debug/net6.0/loop-DoWhile.genruntimeconfig.cache

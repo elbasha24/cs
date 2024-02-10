@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/Random
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/Random.deps.json
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/Random.runtimeconfig.json
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/Random.dll
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/ref/Random.dll
+/home/nk/Documents/cs/Random/bin/Debug/net6.0/Random.pdb
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.AssemblyInfo.cs
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.dll
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/ref/Random.dll
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.pdb
+/home/nk/Documents/cs/Random/obj/Debug/net6.0/Random.genruntimeconfig.cache
