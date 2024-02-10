@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/T-list
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/T-list.deps.json
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/T-list.runtimeconfig.json
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/T-list.dll
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/ref/T-list.dll
+/home/nk/Documents/cs/T-list/bin/Debug/net6.0/T-list.pdb
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.AssemblyInfo.cs
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.dll
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/ref/T-list.dll
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.pdb
+/home/nk/Documents/cs/T-list/obj/Debug/net6.0/T-list.genruntimeconfig.cache
