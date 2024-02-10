@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/EscapChars
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/EscapChars.deps.json
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/EscapChars.runtimeconfig.json
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/EscapChars.dll
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/ref/EscapChars.dll
+/home/nk/Documents/cs/EscapChars/bin/Debug/net6.0/EscapChars.pdb
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.AssemblyInfo.cs
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.dll
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/ref/EscapChars.dll
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.pdb
+/home/nk/Documents/cs/EscapChars/obj/Debug/net6.0/EscapChars.genruntimeconfig.cache
