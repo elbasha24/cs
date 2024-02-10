@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/VerbatimStrings
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/VerbatimStrings.deps.json
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/VerbatimStrings.runtimeconfig.json
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/VerbatimStrings.dll
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/ref/VerbatimStrings.dll
+/home/nk/Documents/cs/VerbatimStrings/bin/Debug/net6.0/VerbatimStrings.pdb
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.AssemblyInfo.cs
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.dll
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/ref/VerbatimStrings.dll
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.pdb
+/home/nk/Documents/cs/VerbatimStrings/obj/Debug/net6.0/VerbatimStrings.genruntimeconfig.cache

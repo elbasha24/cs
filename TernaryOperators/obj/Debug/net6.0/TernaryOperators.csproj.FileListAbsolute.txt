@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/TernaryOperators
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/TernaryOperators.deps.json
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/TernaryOperators.runtimeconfig.json
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/TernaryOperators.dll
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/ref/TernaryOperators.dll
+/home/nk/Documents/cs/TernaryOperators/bin/Debug/net6.0/TernaryOperators.pdb
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.AssemblyInfo.cs
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.dll
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/ref/TernaryOperators.dll
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.pdb
+/home/nk/Documents/cs/TernaryOperators/obj/Debug/net6.0/TernaryOperators.genruntimeconfig.cache

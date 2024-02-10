@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ClassExamples
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ClassExamples.deps.json
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ClassExamples.runtimeconfig.json
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ClassExamples.dll
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ref/ClassExamples.dll
+/home/nk/Documents/cs/ClassExamples/bin/Debug/net6.0/ClassExamples.pdb
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.AssemblyInfo.cs
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.dll
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ref/ClassExamples.dll
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.pdb
+/home/nk/Documents/cs/ClassExamples/obj/Debug/net6.0/ClassExamples.genruntimeconfig.cache

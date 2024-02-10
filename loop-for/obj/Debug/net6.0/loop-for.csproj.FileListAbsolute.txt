@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/loop-for
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/loop-for.deps.json
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/loop-for.runtimeconfig.json
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/loop-for.dll
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/ref/loop-for.dll
+/home/nk/Documents/cs/loop-for/bin/Debug/net6.0/loop-for.pdb
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.AssemblyInfo.cs
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.dll
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/ref/loop-for.dll
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.pdb
+/home/nk/Documents/cs/loop-for/obj/Debug/net6.0/loop-for.genruntimeconfig.cache
