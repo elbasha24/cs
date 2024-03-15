@@ -1,0 +1,42 @@
+class MinMaxValuesDemo
+{
+    static void Main(string[] args)
+    {
+        ShowMinAndMaxValues<char>(typeof(char).FullName);
+        ShowMinAndMaxValues<short>(typeof(short).FullName);
+        ShowMinAndMaxValues<ushort>(typeof(ushort).FullName);
+        ShowMinAndMaxValues<int>(typeof(int).FullName);
+        ShowMinAndMaxValues<uint>(typeof(uint).FullName);
+        ShowMinAndMaxValues<long>(typeof(long).FullName);
+        ShowMinAndMaxValues<ulong>(typeof(ulong).FullName);
+        ShowMinAndMaxValues<float>(typeof(float).FullName);
+        ShowMinAndMaxValues<double>(typeof(double).FullName);
+        ShowMinAndMaxValues<decimal>(typeof(decimal).FullName);
+    }
+
+    static void ShowMinAndMaxValues<T>(string typeName) where T : struct, IConvertible, IComparable, IEquatable, IFormattable
+    {
+        TypeCode tcode = Type.GetTypeCode(typeof(T));
+        Console.Write("Data type: {0}; ", typeName);
+        if (tcode == TypeCode.Byte || tcode == TypeCode.SByte)
+        {
+            Console.Write("Min Value: {0}; Max Value: {1}\n", GetMinValue<T>(), GetMaxValue<T>());
+        }
+        else
+        {
+            Console.Write("Min Value: {0}; Max Value: {1}\n", default(T), default(T));
+        }
+    }
+
+    static T GetMinValue<T>() where T : struct
+    {
+        // Implement logic to retrieve minimum value for specific data type T
+        // (e.g., return typeof(T).GetField("MinValue").GetValue(null); for some types)
+    }
+
+    static T GetMaxValue<T>() where T : struct
+    {
+        // Implement logic to retrieve maximum value for specific data type T
+        // (e.g., return typeof(T).GetField("MaxValue").GetValue(null); for some types)
+    }
+}

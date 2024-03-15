@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.deps.json
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.runtimeconfig.json
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.dll
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/ref/StringInterpolation.dll
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.pdb
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.AssemblyInfo.cs
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.dll
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/ref/StringInterpolation.dll
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.pdb
+/home/nk/Documents/cs/hassounaCodes/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.genruntimeconfig.cache

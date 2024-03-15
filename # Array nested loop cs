@@ -1,0 +1,35 @@
+ To create a nested array and iterate through it, we can either use a rectangular multidimensional array or a jagged array. Since jagged arrays have more flexibility due to their varied dimensions, let's focus on those. Suppose we have a two-dimensional jagged array representing students' scores in two subjects.
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Create a jagged array for student scores
+        int[][] studentScores = new int[3][];
+
+        // Assign subject scores to individual students
+        studentScores[0] = new int[2] { 95, 86 };
+        studentScores[1] = new int[2] { 79, 91 };
+        studentScores[2] = new int[2] { 88, 93 };
+
+        // Iterate through the jagged array and print out the scores
+        for (int i = 0; i < studentScores.Length; i++)
+        {
+            Console.WriteLine($"Student {i+1}: Subject 1 Score - {studentScores[i][0]} | Subject 2 Score - {studentScores[i][1]}");
+        }
+    }
+}
+```
+
+Result:
+
+```
+Student 1: Subject 1 Score - 95 | Subject 2 Score - 86
+Student 2: Subject 1 Score - 79 | Subject 2 Score - 91
+Student 3: Subject 1 Score - 88 | Subject 2 Score - 93
+```
+
+Using a nested loop, we can easily iterate through a jagged array and extract the required information. Remember that jagged arrays have varying dimensions, unlike rectangular multidimensional arrays. Adjust the dimensions according to your specific use-case.

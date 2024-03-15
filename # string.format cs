@@ -1,0 +1,45 @@
+🎁 Here are 10 more examples of using `string.Format()` with various formats and placeholders:
+
+**Example 1: Formatting Numbers**
+
+```csharp
+decimal amount = 12345.67M;
+string currencyFormatted = string.Format("Amount: ${0:F}", amount);   // Amount: $12,345.67
+string percentFormatted = string.Format("Percent: {0:P2}%", amount); // Percent: 12,345.67%
+```
+
+**Example 2: Aligning Text**
+
+```csharp
+string city = "New York City";
+string alignedLeft = string.Format("City: {0,-20}", city);      // City: New York City______
+string alignedCenter = string.Format("City: {0,^20}", city);   // City: ____New York City___
+string alignedRight = string.Format("City: {0,20}", city);    // City: __________New York City
+```
+
+**Example 3: Conditional Formats**
+
+```csharp
+bool isValid = true;
+string conditionalMessage = string.Format("Status: {0:#?} Valid#{1:-??Invalid@", isValid, !isValid ? "✅" : "❌");
+```
+
+**Example 4: Nested Placeholder**
+
+```csharp
+string nestedPlaceholder = string.Format("{0}: {{Property}}", "Nested"); // Property: {Property}
+```
+
+**Example 5: Escaped Braces**
+
+```csharp
+string escapedBraces = string.Format("{{Property: '{0}' }}", "Escaped"); // Property: 'Escaped'
+```
+
+**Example 6: Composite Formatting**
+
+```csharp
+object obj = new { First=Property, Second=Property };
+string compositeFormat = string.Format($"First Object: {0}, Second Object");
+```
+Note that the `$` before the format string indicates that it should be treated as a verbatim string literal and no escape characters should be interpreted

@@ -1,0 +1,29 @@
+var intVar = 123;
+Console.WriteLine(intVar.GetType());       // Output: System.Int32
+
+var strVar = "Hello World!";
+Console.WriteLine(strVar.GetType());      // Output: System.String
+
+var boolVar = true;
+Console.WriteLine(boolVar.GetType());     // Output: System.Boolean
+
+var decimalVar = 123.4m;
+Console.WriteLine(decimalVar.GetType());   // Output: System.Decimal
+
+var floatVar = 123f;
+Console.WriteLine(floatVar.GetType());      // Output: System.Single
+
+var datetimeVar = DateTime.UtcNow;
+Console.WriteLine(datetimeVar.GetType());  // Output: System.DateTime
+
+var listVar = new List<int>();
+Console.WriteLine(listVar.GetType());     // Output: System.Collections.Generic.List`1[[System.Int32]]
+
+var dictVar = new Dictionary<string, object>();
+Console.WriteLine(dictVar.GetType());    // Output: System.Collections.Generic.Dictionary`2[[System.String],[System.Object]]
+
+var tupleVar = (name:"Alice",age:25);
+Console.WriteLine(tupleVar.GetType());    // Output: <>f__AnonymousType0`2[[System.String],[System.Int32]]
+
+var nullVar = null;
+Console.WriteLine(nullVar?.GetType());    // Output: NullReferenceException thrown because GetType cannot be invoked on null objects

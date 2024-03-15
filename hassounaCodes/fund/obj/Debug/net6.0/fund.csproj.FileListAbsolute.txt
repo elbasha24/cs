@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/fund
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/fund.deps.json
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/fund.runtimeconfig.json
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/fund.dll
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/ref/fund.dll
+/home/nk/Documents/cs/hassounaCodes/fund/bin/Debug/net6.0/fund.pdb
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.AssemblyInfo.cs
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.dll
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/ref/fund.dll
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.pdb
+/home/nk/Documents/cs/hassounaCodes/fund/obj/Debug/net6.0/fund.genruntimeconfig.cache

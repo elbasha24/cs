@@ -1,0 +1,5 @@
+/home/nk/Documents/cs/hassounaCodes/fund2/fund2/obj/Debug/net6.0/fund2.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/hassounaCodes/fund2/fund2/obj/Debug/net6.0/fund2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/hassounaCodes/fund2/fund2/obj/Debug/net6.0/fund2.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/hassounaCodes/fund2/fund2/obj/Debug/net6.0/fund2.AssemblyInfo.cs
+/home/nk/Documents/cs/hassounaCodes/fund2/fund2/obj/Debug/net6.0/fund2.csproj.CoreCompileInputs.cache

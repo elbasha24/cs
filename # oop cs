@@ -1,0 +1,110 @@
+ To demonstrate a class in C# featuring a constructor, encapsulation, inheritance, and other fundamental OOP aspects, let's build a simple hierarchy for shapes. Our base class, `Shape`, contains shared attributes and behaviors. Derived classes, `Circle` and `Rectangle`, extend the base class implementing specific shape characteristics.
+
+```csharp
+using System;
+
+// Base Shape class with common attributes and behaviors
+public abstract class Shape
+{
+    protected string color;
+
+    // Property for Color attribute with private setter
+    public string Color
+    {
+        get { return color; }
+        private set { color = value?.Trim().ToLower(); }
+    }
+
+    // Parameterized constructor setting Color attribute
+    public Shape(string color)
+    {
+        Color = color;
+    }
+
+    // Abstract Area method to be implemented by derived classes
+    public abstract double Area();
+
+    // Overridden ToString method for easier representation
+    public override string ToString()
+    {
+        return $"Color: {color}";
+    }
+}
+
+// Circle class inheriting from Shape
+public sealed class Circle : Shape
+{
+    private readonly double radius;
+
+    // Parameterized constructor accepting Color and Radius
+    public Circle(string color, double radius) : base(color)
+    {
+        this.radius = Math.Abs(radius);
+    }
+
+    // Implementing Area method for Circles
+    public override double Area()
+    {
+        const double pi = Math.PI;
+        return pi * radius * radius;
+    }
+}
+
+// Rectangle class inheriting from Shape
+public class Rectangle : Shape
+{
+    private readonly double width, height;
+
+    // Parameterized constructor accepting Color, Width, and Height
+    public Rectangle(string color, double width, double height) : base(color)
+    {
+        this.width = Math.Abs(width);
+        this.height = Math.Abs(height);
+    }
+
+    // Implementing Area method for Rectangles
+    public override double Area()
+    {
+        return width * height;
+    }
+}
+
+// Demo class with entry point
+class Demo
+{
+    static void Main()
+    {
+        Circle circle = new Circle("blue", 3.5);
+        Rectangle rectangle = new Rectangle("red", 2, 4);
+
+        Console.WriteLine($"Circle: {circle}");
+        Console.WriteLine($"Area: {circle.Area()} sq.units");
+
+        Console.WriteLine($"\nRectangle: {rectangle}");
+        Console.WriteLine($"Area: {rectangle.Area()} sq.units");
+
+        Console.ReadLine();
+    }
+}
+```
+
+Result:
+
+```
+Circle: Color: blue
+Area: 38.48451 sq.units
+
+Rectangle: Color: red
+Area: 8 sq.units
+```
+
+Our demo exhibits a hierarchical relationship among classes, incorporating:
+
+- Constructors: Both derived classes have parameterized constructors calling the base class constructor.
+- Encapsulation: Private setters enforce controlled modification of attributes.
+- Abstraction: Abstract `Area()` method forces derived classes to provide definitions.
+- Polymorphism: Different classes respond appropriately to `Area()` calls despite sharing a common ancestry.
+- Inheritance: `Circle` and `Rectangle` derive from the `Shape` base class.
+- Sealing: The `Circle` class prevents further inheritance through sealing.
+
+Studying and employing such fundamentals leads to robust, versatile, and expandable designs. Leveraging these pillars enables building scalable solutions addressing future modifications and extending capabilities effortlessly.

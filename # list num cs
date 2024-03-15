@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        // Create a list of strings
+        List<string> fruits = new List<string>() { "Apple", "Banana", "Orange" };
+
+        // Add element to end of list
+        fruits.Add("Kiwi");
+
+        // Remove element from list
+        fruits.RemoveAt(1);   // Removes Banana
+
+        // Clear entire list
+        fruits.Clear();
+
+        // Sort list alphabetically
+        fruits.Sort((a,b)=>String.CompareOrdinal(a,b));
+
+        // Reverse order of list
+        fruits.Reverse();
+
+        // Find index of element in list
+        int appleIndex = fruits.FindIndex(x => x == "Apple");
+
+        // Get count of elements in list
+        int numFruits = fruits.Count;
+
+        // Iterate through list
+        foreach (string fruit in fruits)
+        {
+           Console.WriteLine(fruit);
+        }
+    }
+}

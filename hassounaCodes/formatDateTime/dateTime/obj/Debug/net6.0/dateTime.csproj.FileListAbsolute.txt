@@ -1,0 +1,15 @@
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/dateTime
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/dateTime.deps.json
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/dateTime.runtimeconfig.json
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/dateTime.dll
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/ref/dateTime.dll
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/bin/Debug/net6.0/dateTime.pdb
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.csproj.AssemblyReference.cache
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.AssemblyInfoInputs.cache
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.AssemblyInfo.cs
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.csproj.CoreCompileInputs.cache
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.dll
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/ref/dateTime.dll
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.pdb
+/home/nk/Documents/cs/hassounaCodes/formatDateTime/dateTime/obj/Debug/net6.0/dateTime.genruntimeconfig.cache

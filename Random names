@@ -1,0 +1,49 @@
+ To create ten random names, we'll first prepare an array of forenames and surnames, followed by randomly selecting a pair of forename and surname to build a complete name. We'll accomplish this using the `Random` class in C#.
+
+1. Import the `System` namespace to access the `Random` class.
+2. Build arrays of forenames and surnames.
+3. Generate random indices to pluck random items from the arrays.
+4. Combine the random forename and surname to create a complete name.
+5. Perform this sequence nine times to produce ten names.
+
+Implementing the above guidelines yields the following code:
+
+```csharp
+using System;
+
+class RandomNamesGenerator
+{
+    static void Main()
+    {
+        string[] firstNames = { "Emily", "Mason", "Ethan", "Noah", "Ava", "Liam", "Isabella", "William", "Sophia", "James", "Mia", "Benjamin", "Harper", "Lucas", "Charlotte", "Alexander" };
+        string[] lastNames = { "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez", "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Moore" };
+
+        Random rng = new Random();
+
+        for (int i = 0; i < 10; i++)
+        {
+            int randomForenameIndex = rng.Next(firstNames.Length);
+            int randomSurnameIndex = rng.Next(lastNames.Length);
+            string randomName = $"{firstNames[randomForenameIndex]} {lastNames[randomSurnameIndex]}";
+            Console.WriteLine(randomName);
+        }
+    }
+}
+```
+
+Sample Output:
+
+```
+Isabella Gonzalez
+Mason Rodriguez
+Sophia Moore
+James Smith
+Liam Garcia
+Ethan Thomas
+Noah Wilson
+Harper Johnson
+Benjamin Martinez
+Ava Lopez
+```
+
+Experiment with the code to incorporate variations, longer name collections, or perhaps international names. Mastering the art of random selection opens doors to countless possibilities, fueling creativity and innovation in your programming adventures.

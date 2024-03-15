@@ -1,0 +1,55 @@
+using System;
+
+namespace ArrayFunctions
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Input array declaration and initialization
+            int[] inputArray = { 1, 8, 3, 15, 4, 2 };
+
+            // Minimum and maximum values
+            var minValue = inputArray.Min();
+            var maxValue = inputArray.Max();
+            Console.WriteLine($"Minimum value: {minValue}, Maximum value: {maxValue}");
+
+            // Count even vs. odd numbers
+            int evenCount = inputArray.Where(x => x % 2 == 0).Count();
+            int oddCount = inputArray.Where(x => x % 2 != 0).Count();
+            Console.WriteLine($"Number of even numbers: {evenCount}, Number of odd numbers: {oddCount}");
+
+            // Sum, Average calculation, and Reversal
+            double avg = inputArray.Average();
+            int sum = inputArray.Sum();
+            Array.Reverse(inputArray);
+            Console.WriteLine($"Sum: {sum}, Average: {avg}");
+            Console.WriteLine("Reversed array: ");
+            foreach (var item in inputArray)
+            {
+                Console.Write($"{item} ");
+            }
+
+            // Element Copying
+            int[] copiedArray = new int[inputArray.Length];
+            Array.Copy(inputArray, copiedArray, inputArray.Length);
+            Console.WriteLine("\n\nCopied array:");
+            foreach (var item in copiedArray)
+            {
+                Console.Write($"{item} ");
+            }
+
+            // Linear search
+            int findVal = 15;
+            int foundAt = Array.BinarySearch(inputArray, findVal);
+            if (foundAt < 0)
+            {
+                Console.WriteLine($"\nValue '{findVal}' not found!");
+            }
+            else
+            {
+                Console.WriteLine($"\nFound value '{findVal}' at index: {foundAt}");
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+👋 Here are ten examples of String Formatting using various methods available in C#:
+
+**Example #1 - Using `StringBuilder` class**
+```csharp
+using System;
+using System.Text;
+class Program {
+    static void Main(string[] args) {
+        StringBuilder sb = new StringBuilder();
+        // Append strings with formatted values
+        sb.Append("Hello ");
+        sb.AppendFormat("{0}!", "World");
+        
+        Console.WriteLine(sb);   // Output: Hello World!
+    }
+}
+```
+
+**Example #2 - Using `+` operator (concatenation)**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        int num = 456789;
+        double dbl = 3.14159;
+    
+        // Concatenate strings with formatted values
+        var result = "The number is " + num + ", and pi is approximately " + dbl;
+      
+        Console.WriteLine(result);      // Output: The number is 456789, and pi is approximately 3.14159
+    }
+}
+```
+
+**Example #3 - Using `$""` interpolation**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        DateTime dateTimeNow = DateTime.UtcNow;
+        TimeSpan timeSpan = new TimeSpan(1, 2, 3);
+        
+        // Interpolated Strings with formatted values
+        var strDate = $"Today is {dateTimeNow:MM/dd/yyyy HH:mm tt}, UTC";
+        var strTimespan = $"Time elapsed since start: {timeSpan:hh\\:mm\\:ss}"
+                         
+        Console.WriteLine(strDate);            // Output: Today is 01/23/2022 12:34 PM, UTC
+        Console.WriteLine(strTimespan);        // Output: Time elapsed since start: 01:02:03
+    }
+}
+```
+
+**Example #4 - Using `string.Concat()` method**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        char firstChar = 'A';
+        bool flag = true;
+            
+        // Concat multiple objects as strings
+        var concatStr = string.Concat("First character: ", firstChar, "\nFlag value: ", flag);
+          
+        Console.WriteLine(concatStr);              // Output: First character: A\nFlag value: True
+    }
+}
+```
+
+**Example #5 - Using `string.Join()` method**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        string[] names = {"John","Mary","Jane"};
+              
+        // Join array elements separated by comma
+        var joinedNames = string.Join(", ", names);
+               
+        Console.WriteLine($"Joined Names: {joinedNames}");   // Output: Joined Names: John, Mary, Jane
+    }
+}
+```
+
+**Example #6 - Using `string.Format()` method**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        decimal amountDue = 123.45M;
+        float temperatureCelsius = 25f;
+        
+        // Format numbers with specific formats
+        var currencyFormatted = string.Format("Amount Due: ${0}", amountDue);
+        var tempFahrenheit = string.Format("Temperature: {0:N2}\u00B0 F", temperatureCelsius * 9 / 5 + 32);
+        
+        Console.WriteLine(currencyFormatted);      // Output: Amount Due: $123.45
+        Console.WriteLine(tempFahrenheit);         // Output: Temperature: 77.00° F
+    }
+}
+```
+
+**Example #7 - Using `ToString()` method**
+```csharp
+using System;
+class Program {
+    static void Main(string[] args) {
+        int age = 25;
+        long phoneNumber = 123456789L;
+        
+        // Convert numeric types to strings with specified format
+        var ageAsString = age.ToString("#0 years old!");
+        var phNumWithHyphens = phoneNumber.ToString(@"##-####-####");
+        
+        Console.WriteLine(ageAsString);            // Output: 25 years old!
+        Console.WriteLine(phNumWithHyphens);       // Output: 12-3456-789
+    }
+}
+```
+
+**Example #8 - Using `Regex.Replace()` method**
+```csharp
+using System;
+using System.Text.RegularExpressions;
+class Program {
+    static void Main(string[] args) {
+        Regex rgx = new Regex("\r|\n|[^\w]");
+        string input = @"This is my email address: example@example.com.";
+        
+        // Replace non-alphanumeric characters with spaces
+        var replacedInput = rgx.Replace(input, " ");
+        
+        Console.WriteLine(replacedInput);          // Output: This is my email address  example example com
+    }
+}
+```
+
+**Example #9 - Using LINQ extension methods (`Select()`, `Where()`, etc.)**
+```csharp
+using System;
+using System.Linq;
+class Program {
+    static void Main(string[] args) {
+        string[] words = {"apple", "banana", "cherry", "durian"};
+        
+        // Select only vowels from each word
+        var selectedVowels = words.SelectMany(word => word).Where(ch => ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
+        
+        foreach (var letter in selectedVowels) {
+            Console.Write(letter);
+        }
+        Console.WriteLine();                       // Output: aaeeeiiouaaauuo
+    }
+}
+```
+
+**Example #10 - Using custom formatter classes**
+```csharp
+using System;
+public class CustomFormatter : ICustomFormatter, IFormatProvider {
+    public object GetFormat(Type formatType) { return this; }
+    public string Format(string format, object arg, IFormatProvider provider) {
+        if (!this.Equals(provider)) return null;
+        switch (format) {
+            case "upper": return ((string)arg)?.ToUpperInvariant() ?? "";
+            default: throw new NotSupportedException();
+        }
+    }
+}
+class Program {
+    static void Main(string[] args) {
+        var cf = new CustomFormatter();
+        string name = "john doe";
+	// Use custom formatter to convert text to uppercase
+        Console.WriteLine(name.ToString("upper", cf));  // Output: JOHN DOE
+    }
+}
+```
+
+These examples demonstrate different ways to perform string formatting operations in C#. You may choose one that suits your requirements based on readability, efficiency, or other factors. Remember to always validate inputs before performing conversions or manipulations to avoid unexpected results or exceptions. 

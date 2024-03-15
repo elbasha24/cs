@@ -1,0 +1,28 @@
+The `@` symbol allows you to escape special characters or reserve words used in C# syntax without having to add additional backslashes (`\\`) beforehand. For instance, when printing a path containing directory separators like `\`, it would normally require escaping every occurrence with another backslash (`C:\\Users`). Using `@`, however, simplifies things greatly:
+
+```csharp
+string path = @"C:\Users\username\Documents";
+Console.WriteLine(path);
+```
+
+The resultant output would then appear as expected:
+
+```text
+C:\Users\username\Documents
+```
+
+In your case, formatting text could involve utilizing interpolated strings, e.g.:
+
+```csharp
+string name = "Jane Smith";
+int age = 25;
+Console.WriteLine(@$"My name is {name} and my age is {age}.");
+```
+
+Output:
+
+```text
+My name is Jane Smith and my age is 25.
+```
+
+Note that the `$` sign enables interpolation while the `@` ensures no further processing occurs within the enclosed expression.

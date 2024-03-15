@@ -1,0 +1,83 @@
+ Sure, I'd be happy to help you with that. Here are five sample C# `if` statements:
+
+1. Basic `if` statement:
+```csharp
+int number = 10;
+if (number > 5)
+{
+    Console.WriteLine("The number is greater than 5.");
+}
+```
+Output:
+```
+The number is greater than 5.
+```
+2. `if...else` statement:
+```csharp
+int number = 5;
+if (number > 5)
+{
+    Console.WriteLine("The number is greater than 5.");
+}
+else
+{
+    Console.WriteLine("The number is less than or equal to 5.");
+}
+```
+Output:
+```
+The number is less than or equal to 5.
+```
+3. Nested `if...else` statements:
+```csharp
+int num1 = 10, num2 = 20;
+if (num1 > num2)
+{
+    if (num1 - num2 > 5)
+    {
+        Console.WriteLine("Num1 is greater than Num2, and the difference between them is greater than 5.");
+    }
+    else
+    {
+        Console.WriteLine("Num1 is greater than Num2, but the difference between them is not greater than 5.");
+    }
+}
+else
+{
+    Console.WriteLine("Num1 is not greater than Num2.");
+}
+```
+Output:
+```
+Num1 is not greater than Num2.
+```
+4. Using conditional operators (`?:`) instead of traditional `if...else`:
+```csharp
+string result;
+int score = 70;
+result = (score >= 60) ? "Pass" : "Fail";
+Console.WriteLine(result);
+```
+Output:
+```
+Pass
+```
+5. Chaining multiple conditions using logical operators (`&&`, `||`):
+```csharp
+int age = 25;
+bool isMember = true;
+decimal monthlySpending = 50m;
+
+if (!isMember && (monthlySpending < 50 || age < 21))
+{
+    Console.WriteLine("User does not qualify for special discounts.");
+}
+else
+{
+    Console.WriteLine("User qualifies for special discounts.");
+}
+```
+Output:
+```
+User qualifies for special discounts.
+```
