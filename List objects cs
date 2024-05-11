@@ -1,0 +1,62 @@
+ In C#, you can create a `List` containing custom objects. Assume we have a `Person` class defined as follows:
+
+```csharp
+public class Person
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+}
+```
+
+Follow these steps to create a list of `Person` objects:
+
+1. Import the `System.Collections.Generic` namespace to access the `List` class.
+2. Declare a new empty `List<Person>` called `people`.
+3. Use the `Add` method to insert new `Person` objects into the `people` list.
+
+Here's the complete code showing how to create a `List<Person>` and populate it with `Person` objects:
+
+```csharp
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+
+    static void Main()
+    {
+        List<Person> people = new List<Person>();
+
+        Person emma = new Person { Name = "Emma", Age = 30 };
+        Person jack = new Person { Name = "Jack", Age = 25 };
+        Person olivia = new Person { Name = "Olivia", Age = 35 };
+
+        people.Add(emma);
+        people.Add(jack);
+        people.Add(olivia);
+
+        Console.WriteLine("People in the list:");
+
+        foreach (Person person in people)
+        {
+            Console.WriteLine("- Name: " + person.Name + ", Age: " + person.Age);
+        }
+    }
+}
+```
+
+Executing the code generates the following output:
+
+```
+People in the list:
+- Name: Emma, Age: 30
+- Name: Jack, Age: 25
+- Name: Olivia, Age: 35
+```
+
+Modify the example to accommodate your own custom classes and situations. Familiarizing yourself with creating lists of objects facilitates efficient manipulation of complex data structures, enabling powerful solutions to real-world problems.

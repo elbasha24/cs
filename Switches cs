@@ -1,0 +1,148 @@
+ Switch statements in C# can evaluate expressions of various types, including integers, strings, enum values, boolean values, and more. In this answer, I'll walk you through switch statements handling numbers, names (strings), objects, and arrays.
+
+1. Integer Case Statement
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int input = 2;
+
+        switch (input)
+        {
+            case 1:
+                Console.WriteLine("Input is One");
+                break;
+            case 2:
+                Console.WriteLine("Input is Two");
+                break;
+            default:
+                Console.WriteLine("Invalid Input");
+                break;
+        }
+    }
+}
+```
+
+Output:
+
+```
+Input is Two
+```
+
+2. String Case Statement
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string input = "Hello";
+
+        switch (input)
+        {
+            case "Hi":
+                Console.WriteLine("Friendly Greeting");
+                break;
+            case "Hello":
+                Console.WriteLine("Proper Greeting");
+                break;
+            default:
+                Console.WriteLine("Unknown Greeting");
+                break;
+        }
+    }
+}
+```
+
+Output:
+
+```
+Proper Greeting
+```
+
+3. Object Case Statement
+
+```csharp
+using System;
+using System.Text;
+
+class Animal {}
+class Dog : Animal { public override string ToString() => "Dog"; }
+class Cat : Animal { public override string ToString() => "Cat"; }
+
+class Program
+{
+    static void Main()
+    {
+        Animal animal = new Dog();
+
+        switch (animal)
+        {
+            case Dog d:
+                Console.WriteLine("It's a dog!");
+                break;
+            case Cat c:
+                Console.WriteLine("It's a cat!");
+                break;
+            default:
+                Console.WriteLine("Unrecognizable creature!");
+                break;
+        }
+    }
+}
+```
+
+Output:
+
+```
+It's a dog!
+```
+
+4. Array Case Statement
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string[] input = { "One", "Two" };
+
+        switch (input.Length)
+        {
+            case 1:
+                Console.WriteLine("Single Item");
+                break;
+            case 2:
+                switch (input[0], input[1])
+                {
+                    case ("One", "Two"):
+                        Console.WriteLine("Item #1 is One and Item #2 is Two");
+                        break;
+                    default:
+                        Console.WriteLine("Items are unknown");
+                        break;
+                }
+                break;
+            default:
+                Console.WriteLine("Too many items");
+                break;
+        }
+    }
+}
+```
+
+Output:
+
+```
+Item #1 is One and Item #2 is Two
+```
+
+Switch statements aren't restricted to just integers anymore. Modern C# offers enhanced expressiveness, allowing developers to make decisions based on richer data types such as strings, objects, and arrays. Embrace these improvements to streamline decision-making in your codebase.

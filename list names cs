@@ -1,0 +1,46 @@
+ In C#, you can create a `List<string>` and populate it with five names using the following steps:
+
+1. Import the `System.Collections.Generic` namespace to access the `List` class.
+2. Declare a new empty `List<string>` called `names`.
+3. Use the `Add` method to insert new strings ("names") into the `names` list.
+
+Here's the complete code demonstrating how to create a `List<string>` and fill it with five names:
+
+```csharp
+using System;
+using System.Collections.Generic;
+
+class NamesListGenerator
+{
+    static void Main()
+    {
+        List<string> names = new List<string>();
+
+        names.Add("Emma");
+        names.Add("Jack");
+        names.Add("Olivia");
+        names.Add("Connor");
+        names.Add("Aria");
+
+        Console.WriteLine("My favorite names:");
+
+        foreach (string name in names)
+        {
+            Console.WriteLine("- " + name);
+        }
+    }
+}
+```
+
+Executing the code produces the following output:
+
+```
+My favorite names:
+- Emma
+- Jack
+- Olivia
+- Connor
+- Aria
+```
+
+Adjust the example to fit your personal taste in baby names or any other theme matching your interests. Once you grow accustomed to using the `List<T>` collection, try exploring other useful methods provided by the interface, such as `Sort`, `Clear`, `Contains`, and others. Becoming proficient in harnessing the power of lists allows you to tackle challenging real-world scenarios effectively.
